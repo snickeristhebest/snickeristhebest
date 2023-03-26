@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @snickeristhebest
-- 👀 I’m interested in working on projects that will futher my skills and look good on a resume
-- 🌱 I’m currently learning python and it's related libraries and web frameworks
-- 💞️ I’m looking to collaborate on nothing really, I work alone...
-- 📫 How to reach me, my email is nicoh7242@gmail.com though i don't always check my emails 
+- 👀 I’m interested in working on projects that will futher my skills
+- 🌱 I’m currently learning C++ and using Chatgpt as much as possible
+- 💞️ I’m looking to collaborate with cool people
+- 📫 How to reach me, my email is nicoh7242@gmail.com
 - 
 
 <!---
