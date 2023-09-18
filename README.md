@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snickeristhebest
 - 👀 I’m interested in working on projects that will futher my skills
-- 🌱 I’m currently learning C++ and using Chatgpt as much as possible
-- 💞️ I’m looking to collaborate with cool people
+- 🌱 I’m currently learning JAVA and learning back-end development on boot.dev
 - 📫 How to reach me, my email is nicoh7242@gmail.com
 - I am not very good at using github yet, sorry bought that.
 
