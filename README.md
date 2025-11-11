@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snickeristhebest
-- 👀 I’m interested in working on projects that will futher my skills
-- 🌱 I’m currently learning JAVA and learning back-end development on boot.dev
+- 👀 I’m interested in Machine learnging and AI
+- I am currently on my last semester at UTRGV
 - 📫 How to reach me, my email is nicoh7242@gmail.com, my school email is nicholas.houghton01@utrgv.edu
 
 <!---
