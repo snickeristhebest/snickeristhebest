@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I like tennis, hot sauce, wierd cheeses, anime, league of legens(currently uninstalled), ... oh and coding i guess</h2>
+<h2 align="left">I like tennis, hot sauce, wierd cheeses, anime, league of legends(currently uninstalled), ... oh and coding i guess</h2>
 
 ###
 
