@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @snickeristhebest
-- 👀 I’m interested in Machine learnging and AI
-- I am currently on my last semester at UTRGV
-- 📫 How to reach me, my email is nicoh7242@gmail.com, my school email is nicholas.houghton01@utrgv.edu
+# Hey my names Nick
+aspiring software dev(getting there) / machine learning expert(in development)
+## contact
+- email: nicoh7242@gmail.com
+- discord: snickerishere
 
 <!---
 snickeristhebest/snickeristhebest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
